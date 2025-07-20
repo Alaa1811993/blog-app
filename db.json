@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "email": "Menna16920@yahoo.com",
+      "password": "$2a$10$QAoozAwyfZ.q7eD1QEQEJ.LqYVhEdSqCtbZ00l1Qtyu2cdMdp95E.",
+      "name": "Alaa",
+      "id": 1
+    },
+    {
+      "email": "khairatalaa4@yahoo.com",
+      "password": "$2a$10$RWCYoaqSPi6R1dxQkbLnduNePIcphJxhsgrq1knHylegCC/ZPRoOG",
+      "name": "vav",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "alaa",
+      "description": "nnnn",
+      "image": "https://i.ibb.co/mY3SzNZ/a70a46c1c90c.webp",
+      "id": 11
+    },
+    {
+      "title": "my ",
+      "description": "a lot of cats take a selfie, photography very realist",
+      "image": "https://lexica.art/prompt/326dcf19-e48e-4e9a-9077-2d0bce83d4ac",
+      "id": 12
+    },
+    {
+      "title": "a lot of cats take a selfie, photography very realist",
+      "description": "a lot of cats take a selfie, photography very realist",
+      "image": "https://lexica.art/prompt/326dcf19-e48e-4e9a-9077-2d0bce83d4ac",
+      "id": 13
+    },
+    {
+      "title": "alaa",
+      "description": "the sea dog",
+      "image": "https://ibb.co/gZB5JPWt",
+      "id": 14
+    },
+    {
+      "title": "alaa",
+      "description": "this my cat",
+      "image": "https://ibb.co/WNCPGZzk",
+      "id": 15
+    },
+    {
+      "title": "the cat",
+      "description": "my cat",
+      "image": "https://i.ibb.co/k6Mr2GFw/0321726e6aee.webp",
+      "id": 16
+    },
+    {
+      "title": "tjis my story",
+      "description": "this isnnnnnnnn",
+      "image": "https://i.ibb.co/gLZZNYyL/85a005984e98.webp",
+      "author": "vav",
+      "userId": 2,
+      "id": 18
+    }
+  ],
+
+"comments": [
+    {
+    "id": 1,
+    "postId": 4,
+    "author": "Alaa",
+    "text": "Great post!"
+  },
+  {
+    "id": 2,
+    "postId": 5,
+    "author": "Menna",
+    "text": "Interesting content!"
+  }
+ 
+]
+
+  
+}
